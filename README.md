@@ -1,2 +1,1 @@
 - I am Computer Engineer recently graduated from Colorado State University with an emphasis in Embedded Systems and a minor in Computer Science.
-- 
